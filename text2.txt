@@ -1,2 +1,3 @@
 text2.txt file has been created
 This file has been modified to see the changes in brnach 
+Message added for git reset
